@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/basic-arithmetic-calculator-9dfb0947/react_frontend"
+}
